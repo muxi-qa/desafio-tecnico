@@ -27,9 +27,9 @@ A API que utilizaremos é uma API de teste, os recursos não são criados e alte
 
 O tempo para executar pode variar, porém é esperado que o mesmo seja concluído em no máximo uma (01) semana. Procure atender os requisitos na sua totalidade
 
-O candidato deverá criar um projeto no seu github. Após o término do desafio (no momento que seu código puder ser analisado), deverá adicionar o usuário Muxi Labs como colaborador para análise do código.
+O candidato deverá criar um projeto no seu github. Após o término do desafio, ou no momento que seu código puder ser analisado, deverá ser adicionado o usuário muxi-qa como colaborador para análise do código.
 
-Para dar permissão ao usuário Muxi QA, o candidato deve selecionar a opção "Settings" no seu repositório, depois clicar na opção "Collaborators" e buscar pelo usuário Muxi QA, como na figura abaixo. 
+Para dar permissão ao usuário Muxi QA, o candidato deve selecionar a opção "Settings" no seu repositório, depois clicar na opção "Collaborators" e buscar pelo usuário muxi-qa. 
 
 
 ### **ATENÇÂO** ###
