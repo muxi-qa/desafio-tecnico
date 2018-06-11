@@ -32,7 +32,7 @@ O candidato deverá criar um projeto no seu github. Após o término do desafio,
 Para dar permissão ao usuário Muxi QA, o candidato deve selecionar a opção "Settings" no seu repositório, depois clicar na opção "Collaborators" e buscar pelo usuário muxi-qa. 
 
 
-### **ATENÇÂO** ###
+### **ATENÇÃO** ###
 Não se deve tentar fazer o PUSH diretamente para ESTE repositório!
 	  
-	  Esclarecimento de dúvidas: Felipe Lima (flima@muxi.com.br)
+	  Esclarecimento de dúvidas: Christiano Morikawa (cmorikawa@muxi.com.br / qualidade@muxi.com.br)
